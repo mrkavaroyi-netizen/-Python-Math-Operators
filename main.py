@@ -1,9 +1,9 @@
-from baghimande import baghimande
-from jam import jam
-from tafrigh import tafrigh
-from taghsim import taghsim
-from tavan import tavan
-from zarb import zarb
+from Functions.baghimande import baghimande
+from Functions.jam import jam
+from Functions.tafrigh import tafrigh
+from Functions.taghsim import taghsim
+from Functions.tavan import tavan
+from Functions.zarb import zarb
 
 
 
